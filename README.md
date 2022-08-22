@@ -16,6 +16,8 @@ My goal was to generate the list for her automatically based off her preferences
 The postcode is stored within the pharmacy title. So postcode had to be extracted from the name. Using get_postcode in choice.py.
 The salary was stored in salary column
 
+![image](https://user-images.githubusercontent.com/79328765/186035049-d8c554a3-bbc0-4cd4-8fef-0bf59e14dca1.png)
+
 
 
 ## Approach
