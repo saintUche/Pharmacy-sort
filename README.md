@@ -18,6 +18,9 @@ The salary was stored in salary column
 
 ![image](https://user-images.githubusercontent.com/79328765/186035049-d8c554a3-bbc0-4cd4-8fef-0bf59e14dca1.png)
 
+![image](https://user-images.githubusercontent.com/79328765/186035112-be666582-5e16-4337-9432-055481fbadad.png)
+
+
 
 
 ## Approach
