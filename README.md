@@ -56,3 +56,4 @@ May work on improving later
 Pandas could have been used to read data files instead.
 Concurrency programming could have been used as it take arouf 10min to generate list 
 
+Made in November in 2020, uploaded in 2022
